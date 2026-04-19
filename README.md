@@ -1,5 +1,3 @@
-Here it is:
-
 BMC Software — Leveraged Buyout Model (2013)
 Type: Full LBO Model
 Transaction Date: September 2013
